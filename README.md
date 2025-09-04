@@ -48,9 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ghuge123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ghuge123&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghuge123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -58,14 +55,14 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/dipak-ghuge-85231b259/)">
     <img src="https://img.shields.io/badge/LinkedIn-Dipak%20Ghuge-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://portfolio-tau-flame-34.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-%20Website-green?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:ghugedipak123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ghugedipak123%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:dipakghuge65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dipakghuge65@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
