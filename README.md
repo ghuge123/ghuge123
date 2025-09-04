@@ -55,10 +55,10 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/dipak-ghuge-85231b259/)">
+  <a href="https://www.linkedin.com/in/dipak-ghuge-85231b259/">
     <img src="https://img.shields.io/badge/LinkedIn-Dipak%20Ghuge-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://your-portfolio-link.com](https://portfolio-tau-flame-34.vercel.app/)">
+  <a href="https://portfolio-tau-flame-34.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%20Website-green?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:dipakghuge65@gmail.com">
